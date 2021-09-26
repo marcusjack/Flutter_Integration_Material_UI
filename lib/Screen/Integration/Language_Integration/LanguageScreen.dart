@@ -27,7 +27,7 @@ class _LanguageScreenState extends State<LanguageScreen> {
                 fontWeight: FontWeight.w600,
                 fontSize: 18.5,
                 letterSpacing: 1.2,
-                color: Colors.black87),
+                color: Colors.white),
           ),
           centerTitle: true,
           iconTheme: IconThemeData(color: Colors.white),

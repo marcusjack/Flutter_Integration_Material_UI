@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
     return EasyLocalizationProvider(
       data: data,
       child: MaterialApp(
-        title: 'BigUI Flutter',
+        title: 'Flutter Integration Material UI',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
             brightness: Brightness.light,

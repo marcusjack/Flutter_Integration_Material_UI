@@ -168,7 +168,7 @@ class _ConnectivityScreenState extends State<ConnectivityScreen> {
                             height: MediaQuery.of(context).size.height,
                             child: Image.asset(
                               'assets/illustration/error_illustration/error37.jpg',
-                              fit: BoxFit.cover,
+                              fit: BoxFit.fill,
                             ),
                           ),
                         ),
